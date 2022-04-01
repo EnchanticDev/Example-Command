@@ -1,0 +1,7 @@
+name: Command Example
+version: ${project.version}
+main: org.enchanticdev.commandexample.CommandExample
+api-version: 1.18
+depend: [ EnchanticLib ]
+authors: [ Ministry ]
+description: Example of a command using EnchanticLib
